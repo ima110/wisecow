@@ -1,0 +1,11 @@
+# Vagrant environment
+.vagrant/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
